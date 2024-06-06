@@ -1,0 +1,14 @@
+{
+  "name": "rickandmortyapi",
+  "version": "1.0.0",
+  "description": "Nodejs API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joaquin Mazuecos",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
